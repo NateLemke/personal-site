@@ -1,0 +1,30 @@
+#nav-bar {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    height: 7vh;
+}
+#nav-list {
+    list-style: none;
+    overflow: hidden;
+    padding: 0;
+    margin: 0;
+}
+
+.nav-item {
+    float: left;
+}
+
+.nav-item a {
+    color: black;
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    padding: 10px;
+    border-bottom: 3px solid transparent;
+}
+
+.nav-item a:hover {
+    color: darkred;
+    border-bottom: 3px solid darkred;
+}

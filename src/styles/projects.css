@@ -1,0 +1,13 @@
+#projects {
+    padding-bottom: 50px;
+}
+.rounded-button {
+    padding: 10px 20px;
+    text-align: center;
+    align-content: center;
+    border-radius: 50px;
+    border: 2px solid darkslateblue;
+    text-decoration: none;
+    color:darkslateblue;
+    background-color: white;
+}

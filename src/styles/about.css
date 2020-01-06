@@ -1,0 +1,25 @@
+#about {
+    background-color: darkgoldenrod;
+    padding-top: 30px;
+}
+
+#portrait {
+    width: 300px;
+    height: 400px;
+
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+}
+
+#about:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+#info ul {
+    list-style: none;
+}

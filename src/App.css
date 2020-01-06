@@ -1,5 +1,22 @@
+html {
+  scroll-behavior: smooth;
+}
+
 .App {
   text-align: center;
+  background-color: khaki;
+}
+
+.main-color-1 {
+  background-color: darkred;
+}
+
+.main-color-2 {
+  background-color: darkgoldenrod;
+}
+
+.bg-color {
+  background-color: khaki;
 }
 
 .App-logo {

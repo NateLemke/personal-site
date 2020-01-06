@@ -1,0 +1,13 @@
+#contact {
+    padding-top: 30px;
+}
+.col {
+    float: left;
+    width: 50%;
+}
+
+#contact::after {
+    content: "";
+    display: table;
+    clear: both;
+}
