@@ -2,7 +2,8 @@
     position: -webkit-sticky;
     position: sticky;
     top: 0;
-    height: 7vh;
+    margin-bottom: 0;
+    border-bottom: 3px solid blueviolet;
 }
 #nav-list {
     list-style: none;
@@ -16,15 +17,13 @@
 }
 
 .nav-item a {
-    color: black;
+    color: white;
     display: block;
     text-decoration: none;
     text-align: center;
     padding: 10px;
-    border-bottom: 3px solid transparent;
 }
 
 .nav-item a:hover {
-    color: darkred;
-    border-bottom: 3px solid darkred;
+    color: blueviolet;
 }

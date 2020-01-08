@@ -1,9 +1,16 @@
 #contact {
-    padding-top: 30px;
+    padding-top: 50px;
 }
+
 .col {
     float: left;
     width: 50%;
+}
+
+@media screen and (max-width: 900px) {
+    .col {
+        width: 100%;
+    }
 }
 
 #contact::after {

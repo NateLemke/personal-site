@@ -1,7 +1,13 @@
 
 #header {
-    height: 93vh;
+    height: 90vh;
     align-content: center;
     padding-top: 50px;
     margin-top: 0;
+    background-image: url('../content/night.jpg');
+    background-size: cover;
+}
+
+#header h1{
+    padding-top: 10%;
 }

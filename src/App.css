@@ -4,19 +4,24 @@ html {
 
 .App {
   text-align: center;
-  background-color: khaki;
+  background-color: white;
+  color: white;
 }
 
 .main-color-1 {
-  background-color: darkred;
+  background-color: #282c34;
 }
 
 .main-color-2 {
-  background-color: darkgoldenrod;
+  background-color: indigo;
 }
 
 .bg-color {
-  background-color: khaki;
+  background-color: white;
+}
+
+.black-text {
+  color: black;
 }
 
 .App-logo {
