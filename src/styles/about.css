@@ -15,6 +15,10 @@
     width: 33.33%;
 }
 
+#blurb p {
+    padding: 15px;
+}
+
 #info p {
     margin-right: 100px;
 }
