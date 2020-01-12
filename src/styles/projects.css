@@ -1,5 +1,6 @@
 #projects {
     padding-bottom: 50px;
+    overflow: hidden;
 }
 .rounded-button {
     padding: 30px 30px;
