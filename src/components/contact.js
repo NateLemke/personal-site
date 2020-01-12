@@ -5,6 +5,7 @@ export default class Contact extends Component {
     render() {
         return (
         <div id='contact' class="main-color-2">
+            <a class="anchor-point" id="a-contact"></a>
         <div class='col'>
             <img src={require('../content/email.png')} width="100px" height="100px"></img>
             <h2>Nateglemke@gmail.com</h2>

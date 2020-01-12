@@ -2,24 +2,25 @@
     padding-bottom: 50px;
     overflow: hidden;
 }
-.rounded-button {
-    padding: 30px 30px;
-    text-align: center;
-    align-content: center;
-    justify-content: center;
-    border-radius: 50px;
-    border: 2px solid darkslateblue;
-    text-decoration: none;
-    color:darkslateblue;
-    background-color: white;
-}
 
 .project-card {
     width: 40%;
     height: 200px;
     display: inline-block;
     margin: 20px;
+    color: white;
     box-shadow: 3px 5px 10px #888888;
+    z-index: 0;
+}
+
+.grow {
+    transition: all .2s ease-in-out;
+    z-index: 0;
+}
+
+.grow:hover {
+    transform: scale(1.1);
+    z-index: 0;
 }
 
 @media screen and (max-width: 900px) {

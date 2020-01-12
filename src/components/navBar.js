@@ -10,13 +10,13 @@ export default class NavBar extends Component {
                         <a class="nav-link" href="#top">HOME</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#about">ABOUT</a>
+                        <a class="nav-link" href="#a-about">ABOUT</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#projects">PROJECTS</a>
+                        <a class="nav-link" href="#a-projects">PROJECTS</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#contact">CONTACT</a>
+                        <a class="nav-link" href="#a-contact">CONTACT</a>
                     </li>
                 </ul>
             </div>

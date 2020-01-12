@@ -6,6 +6,7 @@ export default class About extends Component {
     render() {
         return(
             <div id="about" class="bg-color">
+                <a class="anchor-point" id="a-about"></a>
                 <div id="blurb" class="column bg-color black-text">
                     <h2>About me</h2>
                     <p>I am a recent graduate of the Computer Systems Technology program at BCIT, which I took with the Technical Programming option.
